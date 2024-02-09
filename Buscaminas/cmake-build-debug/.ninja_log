@@ -1,0 +1,5 @@
+# ninja log v5
+4	1523	7291311982462853	CMakeFiles/Buscaminas.dir/busca.cpp.obj	48bfc688f4bd0517
+473	561	7291335351108784	Buscaminas.exe	465b5c81c4bd5e7f
+2	472	7291335350256579	CMakeFiles/Buscaminas.dir/buscaminas.cpp.obj	d5d5a6c4678459bd
+0	441	7291420310542653	build.ninja	4da0d499f0854314

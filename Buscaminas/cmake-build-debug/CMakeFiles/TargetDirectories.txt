@@ -1,0 +1,3 @@
+D:/Documentos/Marco/Progra C_C++/C++/Buscaminas/cmake-build-debug/CMakeFiles/Buscaminas.dir
+D:/Documentos/Marco/Progra C_C++/C++/Buscaminas/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documentos/Marco/Progra C_C++/C++/Buscaminas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
