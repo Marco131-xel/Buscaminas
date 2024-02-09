@@ -1,0 +1,2 @@
+# Buscaminas
+buscaminas con c++
